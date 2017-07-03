@@ -7,7 +7,7 @@ module.exports = {
     ]
   },
   output: {
-    path: path.join(__dirname, 'target'),
+    path: path.join(__dirname, 'target-webpack'),
     filename: 'main.js'
   },
   resolve: {

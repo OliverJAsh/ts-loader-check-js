@@ -1,7 +1,8 @@
 {
     "compilerOptions": {
         "allowJs": true,
-        "checkJs": true
+        "checkJs": true,
+        "outDir": "./target-tsc"
     },
     "files": [
         "./src/entry.js"
